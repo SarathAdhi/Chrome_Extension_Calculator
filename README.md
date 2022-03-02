@@ -2,6 +2,8 @@
 # Introduction
   Perform any type of calculations using EasyCalc. Calculation made easyy
   Light and Cool calculator with light and dark mode
+  <p align="center"><img width="214" alt="image" src="https://user-images.githubusercontent.com/91727830/156376185-a762a043-45ae-4b2b-989d-e7921cceee6f.png"></p>
+
 
 
 # Installation
