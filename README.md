@@ -9,7 +9,7 @@
 - Clone this project `git clone`
 - Extract the `Chrome_Extension_Calculator.zip` file
 - Go to Chrome and open the `menu` and go to `More tools` and click on `Extension`
-<img width="600" alt="image" src="https://user-images.githubusercontent.com/91727830/156374353-fe0a8ecc-ebfb-420e-bf68-2122b2478d21.png">
+<img width="600" align="center" alt="Extension" src="https://user-images.githubusercontent.com/91727830/156374353-fe0a8ecc-ebfb-420e-bf68-2122b2478d21.png">
 
 - Load the extension into the chrome
 
