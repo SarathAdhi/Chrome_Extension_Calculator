@@ -1,0 +1,114 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@100,900&display=swap');
+* {
+    margin: 0;
+    padding: 0;
+    font-family: 'Roboto', sans-serif;
+}
+body{
+    border: 5px solid rgb(153, 153, 153);
+    background-color: #111;
+    min-width: 220px;
+    max-width: 100%;
+    min-height: 270px;
+}
+.inputButton{
+    margin: 10px;
+}
+#textField{
+    border: none;
+    width: 85%;
+    height: 35px;
+    padding: 0px 10px;
+    border-radius: 10px;
+    font-size: 20px;
+    font-weight: 500;
+}
+.inputButton{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+.rowField button{
+    width: 40px;
+    height: 40px;
+    border-radius: 15px;
+    border: none;
+    font-size: 20px;
+    margin: 2px;
+    background-color: #111;
+    border: 2px solid rgb(255, 255, 255);
+    color: white;
+    transition: all .3s ease-in-out;
+}
+
+.rowField button:hover{
+    border-radius: 50%;
+    background-color: white;
+    color: #111;
+    font-weight: 900;
+}
+
+.light{
+    background-color: white;
+}
+.light input{
+    background-color: #111;
+    color: white;
+}
+.light button{
+    border: 2px solid #111;
+    background-color: white;
+    color: #111;
+}
+.light button:hover{
+    background-color: #111;
+    color: white;
+}
+
+/* #textField{
+    border: none ;
+    border-radius: 10px;
+    padding: 0.25em;
+    color:  #2b3252;
+    width: 100%;
+}
+
+.inputButton{
+    margin : 0.5rem;
+    max-width: 90%;
+}
+
+.rowField{
+    display: flex;
+    justify-content: space-between;
+}
+
+.small,
+.medium,
+.large{
+    margin: 0.2rem;
+    background-color: #64635e;
+    border: none ;
+    border-radius: 5em;
+    color:  white;
+}
+
+.small:hover,
+.medium:hover,
+.large:hover{
+    background-color: white;
+    color: #111;
+}
+
+.small{
+    width : 20%
+}
+
+.medium{
+    width : 72.5%
+}
+
+.large{
+    width: 100%
+} */
