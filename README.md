@@ -1,7 +1,6 @@
 # Google Chrome Extension
-
 # Introduction
-
+  Perform any type of calculations using EasyCalc. Calculation made easyy
 
 
 # Installation
