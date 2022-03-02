@@ -15,6 +15,8 @@
 <p align="center"><img width="234" alt="image" src="https://user-images.githubusercontent.com/91727830/156375500-b14c859c-399b-43cb-b8a1-31b4b02ddba9.png"></p>
 
 - Now the extension is Loaded into the chrome
+<p align="center"><img width="215" alt="image" src="https://user-images.githubusercontent.com/91727830/156376008-34b3dbd4-10e1-49ce-9a0c-aa143a3e1a09.png"></p>
+
 
 # Licence
 
