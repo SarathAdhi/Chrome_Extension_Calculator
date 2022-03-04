@@ -15,6 +15,7 @@ document.getElementById("+").addEventListener("click", () => (addVals("+")))
 document.getElementById("/").addEventListener("click", () => (addVals("/")))
 document.getElementById("-").addEventListener("click", () => (addVals("-")))
 document.getElementById("*").addEventListener("click", () => (addVals("*")))
+document.getElementById("backspace").addEventListener("click", () => { backspaceInput() })
 document.getElementById(".").addEventListener("click", () => (addVals(".")))
 document.getElementById("pi").addEventListener("click", () => { addVals("(22/7)") })
 document.getElementById("clear").addEventListener("click", () => { ClearAll() })
@@ -27,6 +28,11 @@ function calculate() {
     const value = eval(input)
     if(value)
         textField.value = value
+}
+
+function backspaceInput(){
+    var len = textField.value.length
+    textField.value = textField.value.substring(0, len - 1);
 }
 
 function ClearAll() {
